@@ -1,4 +1,5 @@
-﻿# 📚 OzonSellerApi
+Асилбек сосал
+# 📚 OzonSellerApi
 
 Библиотека для взаимодействия с **Ozon Seller API**.
 
